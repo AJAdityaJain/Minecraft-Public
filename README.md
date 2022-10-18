@@ -1,7 +1,10 @@
 # Minecraft-BIS
 Public repo of Minecraft C++
 
-Put the Minecraft2 directory in the C:// directory
-Use Minecraft.exe
+© Aditya Jain 2022
 
-Code is provided but it is a mess
+Put the Minecraft2 directory in the C:// directory
+
+Then use Minecraft.exe
+
+No Code provided
